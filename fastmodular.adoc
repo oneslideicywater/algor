@@ -32,7 +32,8 @@ image::img/000001.png[]
 利用这个公式快速幂模。
 
 
-
+快速幂、快速幂取模的分析与代码实现：
+https://blog.csdn.net/iwts_24/article/details/79780596
 
 
 
