@@ -1,0 +1,3 @@
+== 快速幂模运算
+
+(a^b) mod c= (a mod c) ^ b mod c
